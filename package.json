@@ -1,0 +1,24 @@
+{
+  "name": "victoria-korniat-lab3",
+  "version": "1.0.0",
+  "description": "CLI library catalog - Variant 10",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriakorniat-eng/Victoria-Korniat-lab3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/victoriakorniat-eng/Victoria-Korniat-lab3/issues"
+  },
+  "homepage": "https://github.com/victoriakorniat-eng/Victoria-Korniat-lab3#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
