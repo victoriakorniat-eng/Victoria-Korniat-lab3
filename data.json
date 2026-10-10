@@ -1,0 +1,73 @@
+{
+ "libraryName": "Наукова бібліотека ЛНУ ім. Івана Франка",
+ "generatedAt": "2026-09-07",
+ "books": [
+  {
+   "id": 1,
+   "title": "Структури даних та алгоритми",
+   "authors": ["Роберт Седжвік", "Кевін Уейн"],
+   "publicationYear": 2018,
+   "genre": "Інформатика",
+   "copies": [
+    {
+     "inventoryNumber": "INV-00231",
+     "available": false,
+     "loanHistory": [
+      {
+       "borrowerName": "Корнят Вікторія",
+       "borrowedDate": "2026-08-20",
+       "returnedDate": null
+      }
+     ]
+    },
+    {
+     "inventoryNumber": "INV-00232",
+     "available": true,
+     "loanHistory": [
+      {
+       "borrowerName": "Іваненко Петро",
+       "borrowedDate": "2026-05-10",
+       "returnedDate": "2026-05-24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Кобзар",
+   "authors": ["Тарас Шевченко"],
+   "publicationYear": 1840,
+   "genre": null,
+   "copies": [
+    {
+     "inventoryNumber": "INV-00450",
+     "available": true,
+     "loanHistory": []
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Чистий код",
+   "authors": ["Роберт Мартін"],
+   "publicationYear": 2008,
+   "genre": "Інформатика",
+   "copies": [
+    {
+     "inventoryNumber": "INV-00310",
+     "available": true,
+     "loanHistory": [
+      { "borrowerName": "Мельник Олена", "borrowedDate": "2026-02-03", "returnedDate": "2026-02-17" },
+      { "borrowerName": "Іваненко Петро", "borrowedDate": "2026-04-01", "returnedDate": "2026-04-14" }
+     ]
+    },
+    { 
+     "inventoryNumber": "INV-00311", 
+     "available": false,
+     "loanHistory": [ { "borrowerName": "Шевчук Андрій", "borrowedDate": "2026-09-01", "returnedDate": null } ] 
+    }
+   ]
+  }
+ ]
+}
